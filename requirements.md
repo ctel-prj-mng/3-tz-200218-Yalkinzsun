@@ -47,7 +47,7 @@
 
 ## Структура сайта
 
-![wireframe-smartphone](https://github.com/Yalkinzsun/2-wireframe-130218-Yalkinzsun/raw/master/img/structure.png)
+![wireframe-smartphone](/img/structure.png)
                        
 * **Главная страница** <br>
   Меню будет включать много пунктов, поэтому будет в виде выпадающего списка, за икслючением пункта "Достижения"
@@ -66,13 +66,13 @@
 * **Макет** </br>
   **Десктопная версия** 
 
-  ![wireframe-desktop](/2-wireframe-130218-Yalkinzsun/img/wireframe-desktop_v2.jpg)
+  ![wireframe-desktop](/img/wireframe-desktop_v2.jpg)
 
-  ![wireframe-desktop](/2-wireframe-130218-Yalkinzsun/img/wireframe-desktop2.jpg)
+  ![wireframe-desktop](/img/wireframe-desktop2.jpg)
 
   **Мобильная версия**
 
-  ![wireframe-smartphone](/2-wireframe-130218-Yalkinzsun/img/wireframe-smartphone.jpg)
+  ![wireframe-smartphone](/img/wireframe-smartphone.jpg)
   
 ## Общий дизайн
 * Цветовая гамма элементов сайта не должна превышать 5 цветов
