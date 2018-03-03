@@ -48,7 +48,7 @@
 ## Структура сайта
 (https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 
-![wireframe-smartphone](https://github.com/Yalkinzsun/2-wireframe-130218-Yalkinzsun/raw/master/img/structure.png)
+![wireframe-smartphone](https://github.com/Yalkinzsun/2-wireframe-130218-Yalkinzsun/img/structure.png)
 
 * **Главная страница** <br>
   Меню будет включать много пунктов, поэтому будет в виде выпадающего списка, за икслючением пункта "Достижения"
