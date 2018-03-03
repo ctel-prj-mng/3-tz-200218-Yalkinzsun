@@ -46,8 +46,8 @@
 * Сайт должен быть адаптивным (мобильная и дестопная версия)
 
 ## Структура сайта
-
-![wireframe-smartphone](/2-wireframe-130218-Yalkinzsun/img/structure.png)
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![wireframe-smartphone](https://github.com/Yalkinzsun/2-wireframe-130218-Yalkinzsun/raw/master/img/structure.png)
 
 * **Главная страница** <br>
   Меню будет включать много пунктов, поэтому будет в виде выпадающего списка, за икслючением пункта "Достижения"
@@ -63,7 +63,7 @@
   Перед футтером - блок с формой для обратной связи
   Футтер: произволная структура, содержащая, как минимум, год создания
   
-* Макет </br>
+* **Макет** </br>
   **Десктопная версия** 
 
   ![wireframe-desktop](/2-wireframe-130218-Yalkinzsun/img/wireframe-desktop_v2.jpg)
